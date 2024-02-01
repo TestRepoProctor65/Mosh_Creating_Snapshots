@@ -1,5 +1,5 @@
 # Mosh_Creating_Snapshots
-This repository will focus on commits (looking at it history), staging &amp; unstaging files and folders.  
+<h1> This repository will focus on commits (looking at it history), staging &amp; unstaging files and folders. </h1>
 Initialize a new repository.  Add two files in your working directory.
 View the status of the working directory and the staging area.
 Stage both files.
